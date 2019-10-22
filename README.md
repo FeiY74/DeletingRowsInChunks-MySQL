@@ -5,7 +5,7 @@ Referred: <http://mysql.rjweb.org/doc.php/deletebig#deleting_in_chunks>
 
 If you want to execute the SP at a specific time, you can create an Event Scheduler to call it.
 
-## An Event Scheduler example for calling the SP at 2 am everyday.
+## An Event Scheduler example for calling the SP at 2 am everyday
 ```sql:EventSchedulerExample.sql
 delimiter $$
 create event CleaningupLog
