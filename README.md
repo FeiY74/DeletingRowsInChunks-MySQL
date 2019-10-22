@@ -1,5 +1,5 @@
 # MySQL-Deleting Rows In Chunks
-MySQL Stored Procedure for using in deleting rows without killing your DB.
+MySQL Stored Procedure for using in deleting rows without killing your DB. <br/>
 Referred: <http://mysql.rjweb.org/doc.php/deletebig#deleting_in_chunks>
 
 
